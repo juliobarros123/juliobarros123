@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Olá, sou o Júlio Barros 👋
+#  👨‍💻 Júlio Barros
 
 ### Desenvolvedor Full Stack & DevOps
 
@@ -23,7 +23,6 @@
 
 ---
 
-
 Sou **Desenvolvedor Full Stack**, com foco em **Laravel, Angular e Docker**, e experiência no desenvolvimento de aplicações web, APIs RESTful e sistemas orientados a serviços.
 
 Tenho uma visão que vai além de simplesmente escrever código. Procuro compreender **a aplicação como um todo**, desde a arquitetura, regras de negócio e base de dados até ao deployment, automação e observabilidade.
@@ -34,67 +33,79 @@ Também tenho competências em **DevOps**, trabalhando com **Docker, Linux, Ngin
 
 Gosto de aprender através de **projetos reais**, enfrentar problemas técnicos e transformar requisitos em soluções organizadas, escaláveis e fáceis de manter.
 
-### 🎯 O que procuro construir
-
-```text
-Ideia / Requisito
-       ↓
-Arquitetura & Backend
-       ↓
-APIs & Banco de Dados
-       ↓
-Frontend
-       ↓
-Docker & Infraestrutura
-       ↓
-CI/CD
-       ↓
-Observabilidade
-       ↓
-Aplicação pronta para produção
-```
-
 ---
 
 # 🧱 Stack Tecnológico
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💻 Desenvolvimento
 
+<p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
-<br><br>
+Desenvolvimento de aplicações web, APIs RESTful, arquitetura backend e aplicações frontend.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🗄️ Dados & Backend
 
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
 
-<br><br>
+Modelagem de dados, persistência, cache, processamento assíncrono e otimização de aplicações.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### ⚙️ DevOps & Infraestrutura
 
+<p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-<br><br>
+Containers, ambientes Linux, reverse proxy, versionamento, automação e pipelines CI/CD.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 📊 Observabilidade
 
+<p>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+</p>
 
-</div>
+Métricas, dashboards, centralização de logs, monitorização e rastreamento de erros.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -105,9 +116,11 @@ Aplicação pronta para produção
 
 <td width="33%" valign="top">
 
-### 🎓 Xilonga
+<h3>🎓 Xilonga</h3>
 
-Plataforma de ensino a distância desenvolvida para o **Ministério da Educação de Angola**.
+<p>
+Plataforma de ensino a distância desenvolvida para o <strong>Ministério da Educação de Angola</strong>.
+</p>
 
 <a href="https://xilonga.med.gov.ao/">
 Acessar projeto →
@@ -117,17 +130,21 @@ Acessar projeto →
 
 <td width="33%" valign="top">
 
-### 🛡️ Omni-Insurance
+<h3>🛡️ Omni-Insurance</h3>
 
-Sistema de **cotações de seguros** desenvolvido para a **BIC Seguros**.
+<p>
+Sistema de <strong>cotações de seguros</strong> desenvolvido para a <strong>BIC Seguros</strong>.
+</p>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 📄 Correção de Exames Nacionais
+<h3>📄 Correção de Exames Nacionais</h3>
 
-Plataforma desenvolvida para apoiar processos relacionados à **correção de exames nacionais** do Ministério da Educação.
+<p>
+Plataforma desenvolvida para apoiar processos relacionados à <strong>correção de exames nacionais</strong> do Ministério da Educação.
+</p>
 
 </td>
 
@@ -136,39 +153,96 @@ Plataforma desenvolvida para apoiar processos relacionados à **correção de ex
 
 ---
 
-# 🔧 Áreas em que trabalho
+# 🔧 Áreas de atuação
 
-* Desenvolvimento de aplicações **Full Stack**
-* Desenvolvimento de **APIs RESTful**
-* Arquitetura e desenvolvimento Backend com **Laravel**
-* Desenvolvimento Frontend com **Angular**
-* Modelagem e gestão de bases de dados
-* Cache e processamento com **Redis**
-* Containers e ambientes com **Docker**
-* Servidores e reverse proxy com **Nginx**
-* Automação com **GitHub Actions**
-* Pipelines de **CI/CD**
-* Processamento assíncrono com **Queues & Jobs**
-* Controle de concorrência e **Locks**
-* Sistemas de **cache e rate limiting**
-* Monitorização e métricas com **Prometheus**
-* Dashboards e monitorização com **Grafana**
-* Centralização de logs com **Loki**
-* Error tracking e monitorização com **Sentry**
-* Desenvolvimento orientado a problemas reais
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🖥️ Desenvolvimento
+
+* Full Stack
+* APIs RESTful
+* Laravel
+* Angular
+* TypeScript
+* JavaScript
+* MySQL
+* Redis
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Engenharia & DevOps
+
+* Docker
+* Linux
+* Nginx
+* Git
+* GitHub Actions
+* CI/CD
+* Queues & Jobs
+* Locks
+* Cache
+* Rate Limiting
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 Observabilidade
+
+* Prometheus
+* Grafana
+* Loki
+* Sentry
+* Métricas
+* Logs centralizados
+* Error tracking
+* Monitorização
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📈 Atualmente estou aprofundando
 
-```text
-DevOps
- ├── CI/CD
- ├── Docker
- ├── Linux
- ├── Observabilidade
- └── Cloud / AWS
-```
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+
+* AWS
+* CI/CD
+* Docker
+* Linux
+* Infraestrutura
+* Automação
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Observabilidade
+
+* Prometheus
+* Grafana
+* Loki
+* Métricas
+* Logs
+* Monitorização de aplicações
+
+</td>
+
+</tr>
+</table>
 
 O meu objetivo é continuar evoluindo como profissional capaz de atuar não apenas no desenvolvimento da aplicação, mas também nos processos necessários para **executá-la, monitorizá-la e mantê-la em ambientes reais**.
 
